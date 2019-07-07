@@ -1,0 +1,25 @@
+{
+  "name": "robocruft",
+  "version": "1.0.0",
+  "description": "Remove the cruft from Robo 3T (previously Robomongo) printouts.",
+  "main": "robocruft.js",
+  "scripts": {
+    "start": "node robocruft.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SLC3/robocruft.git"
+  },
+  "keywords": [
+    "Robo",
+    "3T",
+    "Robomongo"
+  ],
+  "author": "Nathan Sherburn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SLC3/robocruft/issues"
+  },
+  "homepage": "https://github.com/SLC3/robocruft#readme"
+}

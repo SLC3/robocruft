@@ -17,5 +17,5 @@ let processed = input
   .join(DELIMITER);
 
 
-console.log("Finished! Check 'output' for results.\n\n")
+console.log("\nFinished! Check 'output' for results.\n\n")
 fs.writeFileSync("output", processed);
